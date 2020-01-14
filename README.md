@@ -9,7 +9,7 @@ Certificados de conclusão de cursos
 ![alt text](/PHP/DesenvolvimentoWebPHP-1.png)
 ![alt text](/PHP/becomeWordpressDeveloper.jpg)
 - ### Python
-![alt text](/Python/certificagopython-1.png)
+![alt text](/Python/certificado python-1.png)
 - ### UX/UI
 ![alt text](/UX_UI/ux-udemy-1.png)
 - ### Banco de Dados

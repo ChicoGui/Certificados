@@ -18,8 +18,8 @@ Certificados de conclusão de cursos
 ![Moodle Atividades e Recursos](/Moodle/Moodle_em_Ação_Atividades_e_Recursos-Atestado_de_Conclusão_11916-1.png)
 ![Moodle Configurações](/Moodle/Moodle_em_Ação_Configurações-Atestado_de_Conclusão_11510-1.png)
 ### Tecnologia e Inovação
-![MOOC novas formas ded aprendizagem]/MOOC_e_novasFormasdeAprendizagem-1.png)
-![Tecnologia e Inovação]/Tecnologia_e_Inovação-Emitir_Certificado___153320-1.png)
+![MOOC novas formas ded aprendizagem](/MOOC_e_novasFormasdeAprendizagem-1.png)
+![Tecnologia e Inovação](/Tecnologia_e_Inovação-Emitir_Certificado___153320-1.png)
 
 
 

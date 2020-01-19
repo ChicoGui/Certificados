@@ -5,9 +5,10 @@ Certificados de conclusão de cursos
 ![Lógica de Programação](/Logica/Logica_de_Programacao1.png)
 ---
 ### PHP
+![Become a Wordpress Developer](/PHP/becomeWordpressDeveloper.jpg)
 ![Introdução PHP](/PHP/introducaoPHP-1.png)
 ![Desenvolvimento Web PHP](/PHP/DesenvolvimentoWebPHP-1.png)
-![Become a Wordpress Developer](/PHP/becomeWordpressDeveloper.jpg)
+![PHP tutorials course](/PHP/php_tutorial.jpg)
 ---
 ### Python
 ![Introdução ao python](/Python/certificadopython-1.png)

@@ -6,8 +6,8 @@ Certificados de conclusão de cursos
 ---
 ### PHP
 ![Become a Wordpress Developer](/PHP/becomeWordpressDeveloper.jpg)
-![Introdução PHP](/PHP/introducaoPHP-1.png)
 ![Desenvolvimento Web PHP](/PHP/DesenvolvimentoWebPHP-1.png)
+![Introdução PHP](/PHP/introducaoPHP-1.png)
 ![PHP tutorials course](/PHP/php_tutorial.jpg)
 ---
 ### Python
@@ -17,8 +17,8 @@ Certificados de conclusão de cursos
 ![UX para web designerst](/UX_UI/ux-udemy-1.png)
 ---
 ### Banco de Dados
-![Introdução ao Banco de Dados e SQL](/BancoDados/introducaoBancoDadosSQL-1.png)
 ![MongoDB](/BancoDados/MongoDB_Basics-1.png)
+![Introdução ao Banco de Dados e SQL](/BancoDados/introducaoBancoDadosSQL-1.png)
 ---
 ### Moodle
 ![Moodle Atividades e Recursos](/Moodle/Moodle_em_Ação_Atividades_e_Recursos-Atestado_de_Conclusão_11916-1.png)
